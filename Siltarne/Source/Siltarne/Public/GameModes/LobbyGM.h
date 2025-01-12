@@ -8,5 +8,6 @@ UCLASS()
 class SILTARNE_API ALobbyGM : public AGameMode
 {
 	GENERATED_BODY()
-	
+
+	ALobbyGM();
 };
