@@ -41,6 +41,12 @@
 *.VC.db
 *.VC.opendb
 
+# Resources
+Resources/*
+
+# Garbage file that comes from a Tutorial that will probably need to be removed anyway
+TestMulti.bat
+
 # Precompiled Assets
 Siltarne/SourceArt/**/*.png
 Siltarne/SourceArt/**/*.tga
