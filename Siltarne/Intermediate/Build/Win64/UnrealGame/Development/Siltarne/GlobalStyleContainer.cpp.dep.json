@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lopez\\documents\\siltarne\\game\\siltarne\\source\\siltarne\\private\\ui\\slate\\stylecontainers\\globalstylecontainer.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lopez\\documents\\siltarne\\game\\siltarne\\intermediate\\build\\win64\\siltarne\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\lopez\\documents\\siltarne\\game\\siltarne\\intermediate\\build\\win64\\unrealgame\\development\\siltarne\\definitions.siltarne.h",
+            "c:\\users\\lopez\\documents\\siltarne\\game\\siltarne\\source\\siltarne\\public\\ui\\slate\\stylecontainers\\globalstylecontainer.h",
+            "c:\\users\\lopez\\documents\\siltarne\\game\\siltarne\\intermediate\\build\\win64\\unrealgame\\inc\\siltarne\\uht\\globalstylecontainer.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

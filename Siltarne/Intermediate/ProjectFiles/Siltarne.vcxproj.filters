@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Siltarne.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Siltarne.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SiltarneEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Platforms">
+      <UniqueIdentifier>{ED49A36C-4FD5-37E5-A2AC-E11BEF4F21CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens">
+      <UniqueIdentifier>{28125F47-4973-377C-9D77-EBC3C72EC856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens\Config">
+      <UniqueIdentifier>{D3BF39CB-FA64-39E2-A327-B5021BA69773}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\HoloLens\Config\HoloLensEngine.ini">
+      <Filter>Platforms\HoloLens\Config</Filter>
+    </None>
+    <Filter Include="Source\Siltarne">
+      <UniqueIdentifier>{B2B82E13-70EA-3718-A345-DA573B996902}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Siltarne\Siltarne.Build.cs">
+      <Filter>Source\Siltarne</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Siltarne\Siltarne.cpp">
+      <Filter>Source\Siltarne</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Siltarne\Siltarne.h">
+      <Filter>Source\Siltarne</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Siltarne\SiltarneCharacter.cpp">
+      <Filter>Source\Siltarne</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Siltarne\SiltarneCharacter.h">
+      <Filter>Source\Siltarne</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Siltarne\SiltarneGameMode.cpp">
+      <Filter>Source\Siltarne</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Siltarne\SiltarneGameMode.h">
+      <Filter>Source\Siltarne</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Siltarne\SiltarneProjectile.cpp">
+      <Filter>Source\Siltarne</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Siltarne\SiltarneProjectile.h">
+      <Filter>Source\Siltarne</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Siltarne\TP_PickUpComponent.cpp">
+      <Filter>Source\Siltarne</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Siltarne\TP_PickUpComponent.h">
+      <Filter>Source\Siltarne</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Siltarne\TP_WeaponComponent.cpp">
+      <Filter>Source\Siltarne</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Siltarne\TP_WeaponComponent.h">
+      <Filter>Source\Siltarne</Filter>
+    </ClInclude>
+    <Filter Include="Source\Siltarne\Private">
+      <UniqueIdentifier>{AD02CDF7-BD9F-3DC5-9796-57C4E5D32EC1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Siltarne\Private\SiltarneGameInstance.cpp">
+      <Filter>Source\Siltarne\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Siltarne\Private\GameModes">
+      <UniqueIdentifier>{F9A89797-CD13-3A10-8126-CA9D6B4BD40D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Siltarne\Private\GameModes\MainMenuGM.cpp">
+      <Filter>Source\Siltarne\Private\GameModes</Filter>
+    </ClCompile>
+    <Filter Include="Source\Siltarne\Private\PlayerControllers">
+      <UniqueIdentifier>{CBF388D4-10E6-3C8D-9DE4-675867862C8B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Siltarne\Private\PlayerControllers\MainMenuPC.cpp">
+      <Filter>Source\Siltarne\Private\PlayerControllers</Filter>
+    </ClCompile>
+    <Filter Include="Source\Siltarne\Private\UI">
+      <UniqueIdentifier>{55157849-85D1-32A6-A426-EDF1A9039641}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Siltarne\Private\UI\HUDs">
+      <UniqueIdentifier>{B587D3DF-2650-370E-BD1C-79227A13C9A4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Siltarne\Private\UI\HUDs\MainMenuHUD.cpp">
+      <Filter>Source\Siltarne\Private\UI\HUDs</Filter>
+    </ClCompile>
+    <Filter Include="Source\Siltarne\Private\UI\Slate">
+      <UniqueIdentifier>{3E1E5F50-11FC-367D-9301-A57F846E692A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Siltarne\Private\UI\Slate\Menus">
+      <UniqueIdentifier>{BC276C6A-D273-3147-B706-3946024E9612}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Siltarne\Private\UI\Slate\Menus\SMainMenu.cpp">
+      <Filter>Source\Siltarne\Private\UI\Slate\Menus</Filter>
+    </ClCompile>
+    <Filter Include="Source\Siltarne\Private\UI\Slate\StyleContainers">
+      <UniqueIdentifier>{12BC2745-CCF6-30CA-BCD3-F0B77827E5F2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Siltarne\Private\UI\Slate\StyleContainers\GlobalStyleContainer.cpp">
+      <Filter>Source\Siltarne\Private\UI\Slate\StyleContainers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Siltarne\Private\UI\Slate\StyleContainers\StyleController.cpp">
+      <Filter>Source\Siltarne\Private\UI\Slate\StyleContainers</Filter>
+    </ClCompile>
+    <Filter Include="Source\Siltarne\Public">
+      <UniqueIdentifier>{C343DEA7-31AC-3614-BA53-E899E1838A3B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Siltarne\Public\SiltarneGameInstance.h">
+      <Filter>Source\Siltarne\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\Siltarne\Public\GameModes">
+      <UniqueIdentifier>{5B9013A9-90A9-3E47-AD61-665222CB196C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Siltarne\Public\GameModes\MainMenuGM.h">
+      <Filter>Source\Siltarne\Public\GameModes</Filter>
+    </ClInclude>
+    <Filter Include="Source\Siltarne\Public\PlayerControllers">
+      <UniqueIdentifier>{6EC5E676-4FF0-3161-91B3-5C2E5D58594B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Siltarne\Public\PlayerControllers\MainMenuPC.h">
+      <Filter>Source\Siltarne\Public\PlayerControllers</Filter>
+    </ClInclude>
+    <Filter Include="Source\Siltarne\Public\UI">
+      <UniqueIdentifier>{860C74A6-16FD-3AE1-A2BA-5AD50BE328EE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Siltarne\Public\UI\HUDs">
+      <UniqueIdentifier>{439C4460-E74D-3455-8BDC-EBEBE2BC08D3}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Siltarne\Public\UI\HUDs\MainMenuHUD.h">
+      <Filter>Source\Siltarne\Public\UI\HUDs</Filter>
+    </ClInclude>
+    <Filter Include="Source\Siltarne\Public\UI\Slate">
+      <UniqueIdentifier>{D1AECA9B-835F-3B1D-BFDA-65D177E01085}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Siltarne\Public\UI\Slate\Menus">
+      <UniqueIdentifier>{9A036485-F9C0-3AD7-93AD-57A821187242}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Siltarne\Public\UI\Slate\Menus\SMainMenu.h">
+      <Filter>Source\Siltarne\Public\UI\Slate\Menus</Filter>
+    </ClInclude>
+    <Filter Include="Source\Siltarne\Public\UI\Slate\StyleContainers">
+      <UniqueIdentifier>{691DA2A4-124B-3AFE-A5A7-B9A614068CE8}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Siltarne\Public\UI\Slate\StyleContainers\GlobalStyleContainer.h">
+      <Filter>Source\Siltarne\Public\UI\Slate\StyleContainers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Siltarne\Public\UI\Slate\StyleContainers\StyleController.h">
+      <Filter>Source\Siltarne\Public\UI\Slate\StyleContainers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

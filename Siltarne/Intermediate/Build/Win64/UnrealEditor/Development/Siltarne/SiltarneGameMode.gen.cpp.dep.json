@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lopez\\documents\\siltarne\\game\\siltarne\\intermediate\\build\\win64\\unrealeditor\\inc\\siltarne\\uht\\siltarnegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lopez\\documents\\siltarne\\game\\siltarne\\intermediate\\build\\win64\\siltarneeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\lopez\\documents\\siltarne\\game\\siltarne\\intermediate\\build\\win64\\unrealeditor\\development\\siltarne\\definitions.siltarne.h",
+            "c:\\users\\lopez\\documents\\siltarne\\game\\siltarne\\source\\siltarne\\siltarnegamemode.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\lopez\\documents\\siltarne\\game\\siltarne\\intermediate\\build\\win64\\unrealeditor\\inc\\siltarne\\uht\\siltarnegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

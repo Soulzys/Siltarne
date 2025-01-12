@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lopez\\documents\\siltarne\\game\\siltarne\\intermediate\\build\\win64\\unrealeditor\\inc\\siltarne\\uht\\siltarne.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lopez\\documents\\siltarne\\game\\siltarne\\intermediate\\build\\win64\\siltarneeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\lopez\\documents\\siltarne\\game\\siltarne\\intermediate\\build\\win64\\unrealeditor\\development\\siltarne\\definitions.siltarne.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

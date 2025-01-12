@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Siltarne",
+			"Path": "C:\\Users\\lopez\\Documents\\Siltarne\\Game\\Siltarne\\Source\\Siltarne.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SiltarneEditor",
+			"Path": "C:\\Users\\lopez\\Documents\\Siltarne\\Game\\Siltarne\\Source\\SiltarneEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
