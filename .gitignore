@@ -63,6 +63,9 @@ Siltarne/Plugins/*/Binaries/*
 Siltarne/Build/*
 Siltarne/Builds/*
 
+#Platforms
+Siltarne/Platforms
+
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Siltarne/Build/*
 !Siltarne/Builds/*
